@@ -1,6 +1,6 @@
 ## Hi There!
 
-I am passionately trying to turn the projects that I have envisioned in my mind into reality, and then share them on my GitHub profile as open source.
+I am passionately trying to turn the projects that I have designed in my mind into reality, and I share these projects on my Github profile as open source.
 
 📫 Contact: drknozan@gmail.com
 
